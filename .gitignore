@@ -1,3 +1,6 @@
 env
 .env
 CREDENTIALS
+.vscode
+vscode
+
